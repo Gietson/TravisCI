@@ -5,7 +5,7 @@ mono: none
 dotnet: 1.0.1
 before_script:
   - chmod -R a+x scripts
-script:
+script: 
   - ./scripts/travis-build.sh
 notifications:
   email:
