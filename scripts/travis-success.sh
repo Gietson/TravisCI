@@ -1,1 +1,1 @@
-curl -T ./TestTravisCI -u $FTP_USER:$FTP_PASSWORD ftp://213.218.125.222
+curl -T . -u $FTP_USER:$FTP_PASSWORD ftp://213.218.125.222
