@@ -1,1 +1,1 @@
-"curl -T index.html -u $FTP_USER:$FTP_PASSWORD ftp://wecodetheweb.com/public_html/"
+"curl -T ./TestTravisCI -u $FTP_USER:$FTP_PASSWORD ftp://213.218.125.222"
